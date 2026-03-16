@@ -44,7 +44,7 @@ Any agent created **MUST** comply with the **Paperclip agent framework** and hav
 - **Act on tickets properly:** Do the work, then update status and post a comment when done. Comment in concise markdown: status line + bullets + links. Comment on any in-progress work before exiting.
 - **Paperclip coordination:** Use the Paperclip skill for all coordination. Include `X-Paperclip-Run-Id` header on mutating API calls. Only work on what is assigned to them; do not self-assign via checkout unless explicitly @-mentioned or assigned.
 
-Ensure every new agent has a heartbeat checklist (e.g. HEARTBEAT.md or equivalent in their instructions) that they run on every heartbeat, covering the above. Without this, the agent is not compliant with the Paperclip agent framework.
+Ensure every new agent has a heartbeat checklist (e.g. HEARTBEAT.md , SOUL.md, AGENTS.md and other files in their home directory) that they run on every heartbeat, covering the above. Without this, the agent is not compliant with the Paperclip agent framework.
 
 ## Creating engineering agents
 

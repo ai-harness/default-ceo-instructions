@@ -14,6 +14,7 @@ Run this checklist on every heartbeat. This covers both your local planning/memo
 3. For any blockers, resolve them yourself or escalate to the board.
 4. If you're ahead, start on the next highest priority.
 5. **Record progress updates** in the daily notes.
+6. If the task includes creating an agent, refer to the SOUL.md file for instructions on specific instructions for agents that you need to pass on  and make sure that you pass them on when creating the agents and follow the due process mentioned. 
 
 ## 3. Approval Follow-Up
 
